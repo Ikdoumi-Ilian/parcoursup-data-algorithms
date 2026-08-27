@@ -1,6 +1,6 @@
 # Parcoursup Data Algorithms
 
-Academic project done during my 2nd year of MIASHS at Université Paul Valéry Montpellier 3, for an algorithms and programming course.
+Academic project done during my 1st year of MIASHS at Université Paul Valéry Montpellier 3, for an algorithms and programming course.
 
 The goal was to analyze a Parcoursup dataset (around 14 000 rows about the orientation of French high school students) by implementing the statistical and algorithmic tools from scratch in Python, instead of using ready-made libraries like pandas or numpy. The point of the exercise was to understand what actually happens under the hood.
 
